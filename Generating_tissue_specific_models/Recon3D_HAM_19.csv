@@ -1,0 +1,45 @@
+﻿Compounds,Exchange Reactions,Done,Exchange Reactions,,Comps,,IDs,Uptake Rate,
+L-Arginine,,,arg__L_e,,arginine[e],,arg__L_e,-0.02,1
+L-Histidine,,,his__L_e,,histidine[e],,his__L_e,-0.02,2
+L-Lysine,,,lys__L_e,,lysine[e],,lys__L_e,-0.02,3
+L-Methionine,,,met__L_e,,methionine[e],,met__L_e,-0.02,4
+L-Phenylalanine,,,phe__L_e,,phenylalanine[e],,phe__L_e,-0.02,5
+L-Tryptophan,,,trp__L_e,,tryptophan[e],,trp__L_e,-0.02,6
+L-Tyrosine,,,tyr__L_e,,tyrosine[e],,tyr__L_e,-0.02,7
+L-Alanine,,,ala__L_e,,alanine[e],,ala__L_e,-0.02,8
+Glycine,,,gly_e,,glycine[e],,gly_e,-0.02,9
+L-Serine,,,ser__L_e,,serine[e],,ser__L_e,-0.02,10
+L-Threonine,,,thr__L_e,,threonine[e],,thr__L_e,-0.02,11
+L-Aspartate,,,asp__L_e,,aspartate[e],,asp__L_e,-0.02,12
+L-Glutamate,,,glu__L_e,,glutamate[e],,glu__L_e,-0.02,13
+L-Asparagine,,,asn__L_e,,asparagine[e],,asn__L_e,-0.02,14
+L-Glutamine,,,gln__L_e,,glutamine[e],,gln__L_e,-0.1,15
+L-Isoleucine,,,ile__L_e,,isoleucine[e],,ile__L_e,-0.02,16
+L-Leucine,,,leu__L_e,,leucine[e],,leu__L_e,-0.02,17
+L-Proline,,,pro__L_e,,proline[e],,pro__L_e,-0.02,18
+L-Valine,,,val__L_e,,valine[e],,val__L_e,-0.02,19
+L-Cysteine,,,cys__L_e,,cysteine[e],,cys__L_e,-0.02,20
+Thiamin,,,thm_e,,thiamin[e],,thm_e,-0.02,21
+Hypoxanthine,,,hxan_e,,hypoxanthine[e],,hxan_e,-1,22
+Folate,,,fol_e,,folate[e],,fol_e,-1,23
+Biotin,,,btn_e,,biotin[e],,btn_e,-1,24
+(R)-Pantothenate,,,pnto__R_e,,pantothenate[e],,pnto__R_e,-1,25
+Choline C5H14NO,,,chol_e,,choline[e],,chol_e,-1,26
+Myo-Inositol,,,inost_e,,inositol[e],,inost_e,-1,27
+Nicotinamide,,,ncam_e,,nicotinamide[e],,ncam_e,-1,28
+Pyridoxine,,,pydxn_e,,pyridoxine[e],,pydxn_e,-1,29
+Riboflavin C17H20N4O6,,,ribflv_e,,riboflavin[e],,ribflv_e,-1,30
+Thymidine C10H14N2O5,,,thymd_e,,thymidine[e],,thymd_e,-1,31
+Aquacob(III)alamin,,,aqcobal_e,,aquacob(III)alamin[e],,aqcobal_e,-1,32
+Lipoate,,,lipoate_e,,lipoic acid[e],,lipoate_e,-1,33
+D-Glucose,,,glc__D_e,,glucose[e],,glc__D_e,-0.04,34
+Sulfate,,,so4_e,,sulfate[e],,so4_e,-1,35
+Linoleic acid (all cis C18:2) n-6,,,lnlc_e,,linoleate[e],,lnlc_e,-0.02,36
+"Alpha-Linolenic acid, C18:3, n-3",,,lnlnca_e,,linolenate[e],,lnlnca_e,-0.02,37
+O2 O2,,,o2_e,,O2[e],,o2_e,-0.224,38
+H2O H2O,,,h2o_e,,H2O[e],,h2o_e,-1,39
+Retinoate,,,retn_e,,retinoate[e],,retn_e,-1,40
+Fe2+ mitochondria,,,fe2_e,,Fe2+[e],,fe2_e,-1,41
+Phosphate,,,pi_e,,Pi[e],,pi_e,-1,42
+Alpha-Tocopherol,,,avite1_e,,alpha-tocopherol[e],,avite1_e,-1,43
+Gamma-Tocopherol,,,gtocophe_e,,gamma-tocopherol[e],,gtocophe_e,-1,44
