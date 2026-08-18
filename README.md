@@ -1,4 +1,4 @@
-# ML-GEM-CrohnsDisease
+# ML-GEMs-CrohnsDisease
 Integrating Mechanistic and Machine Learning Models to Identify Metabolic Reprogramming in Crohn's Disease
 
 This repository contains the complete computational workflow used in our manuscript for identifying metabolic reprogramming in Crohn's disease by integrating deep generative learning, context-specific genome-scale metabolic modelling (GEM), genome-scale differential flux analysis (GS-DFA), machine learning, pathway enrichment, and drug–gene interaction analysis.
